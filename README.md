@@ -24,7 +24,7 @@ No ownership is claimed over these images.
 
 **Frontend-Only**  
 This project does not include:  
-- Backend/database connections  
+- Backend/database connections  !
 - Form submissions  
 - JavaScript interactivity  
 
